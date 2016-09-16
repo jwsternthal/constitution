@@ -49,9 +49,9 @@ Chair - shall coordinate timely group meetings, prepare agenda for meetings, com
 
 Co-Chair - shall assist the Chair to coordinate timely group meetings, prepare agenda for meetings, communicate with the officers and meet with the advisor when it is needed. Shall preside in the absence of the Chair.
 
-Treasurer - shall manage the finances of the Youngstown Penguin Hackers. Shall record income and expenditures and review budgets proposed by the events committee. The treasurer must review each proposed expenditure with the Co-treasurer.
+Treasurer - shall manage the finances of the Youngstown Penguin Hackers. Shall record income and expenditures and review budgets proposed by the events committee. The treasurer must review each proposed expenditure with the Co-Treasurer.
 
-Co-Treasurer - shall assist the Treasurer in managing the finances of the Youngstown Penguin Hackers. Shall assist the Treasure to record income, expenditures and review budgets proposed by the events committee. The Co-Treasurer must review each proposed expenditure with the Treasurer.
+Co-Treasurer - shall assist the Treasurer in managing the finances of the Youngstown Penguin Hackers. Shall assist the Treasurer to record income, expenditures and review budgets proposed by the events committee. The Co-Treasurer must review each proposed expenditure with the Treasurer.
 
 ###Section 4: Officer Removal
 
